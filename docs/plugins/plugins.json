@@ -54,6 +54,12 @@
     "short-title": "BatteryStatus"
   },
   {
+    "link": "/docs/plugins/ble/",
+    "title": "Bluetooth Low Energy",
+    "keywords": "ble",
+    "short-title": "BLE"
+  },
+  {
     "link": "/docs/plugins/calendar/",
     "title": "Calendar",
     "keywords": "date time reminder",
